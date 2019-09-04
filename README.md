@@ -23,11 +23,11 @@ In the fifth semester of my bachelor studies at the Beuth University of Applied 
 
 During the development we also made a physical prototype to improve the game experience. In the picture you can see for example the home planet.  
 <img src="./doc/images/prototype/NMP_Karte1.jpg"  width="33%" height="33%">
-<img src="./doc/images/prototype/Hauptplanet_1.jpg"  width="33%" height="33%">  
+<img src="./doc/images/prototype/Hauptplanet_1.JPG"  width="33%" height="33%">  
 <br>
 In the next two picture is the lava jump passage shown.  
 <img src="./doc/images/LavaSee2.jpg"  width="33%" height="33%">
-<img src="./doc/images/prototype/Lava_Jump_Passage_4.jpg"  width="33%" height="33%">  
+<img src="./doc/images/prototype/Lava_Jump_Passage_4.JPG"  width="33%" height="33%">  
 <br>
 Furthermore we made some playtesting sessions with friends or familiy member to fix some bugs and gain feedback.  
 
