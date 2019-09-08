@@ -128,13 +128,9 @@ Ja, das Thema bietet Platz für sehr viele Spielgenres, sodass wir trotz der Vor
 
 Die Vorgabe eines Themas fanden wir zu Beginn eher hinderlich, haben dann aber gemerkt, dass man dadurch fokussierter bei der Spielidee ist. Der Findungsprozess wurde dadurch letztendlich doch ausgereifter(mehr dazu in den Verbesserungsvorschlägen).
 
-David: Spaß hatte ich auch auf jeden Fall, nur desto größer das Projekt wurde desto eher habe ich meine Übersicht verloren und der Spaßfaktor hat etwas darunter gelitten.
-
 ### Was würden Sie bei Ihrem nächsten Spiel anders machen?  
 
 Gleich zu Beginn ein Management zur Szenen-Bearbeitung einrichten.
-
-David: Ich würde kleinere Spiele entwickeln die man in paar Wochen fertig bekommt um meine Game Design Kenntnisse zu erweitern. Öfters im Projekt hatte ich mir gewünscht mehr Zeit für eine Lösung eines Problems zu haben und das ich paar Funktionen nochmal besser umgesetzt haben wollte. Bei "No Man's Planet" wurde ich vom Umfang sehr überwältigt. Das war jedoch ebenfalls eine sehr gute Erfahrung.
 
 ### Was war der größte Erfolg während der Projektes? War das Projekt ein Erfolg?  
 

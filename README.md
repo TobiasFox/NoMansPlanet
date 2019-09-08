@@ -45,7 +45,7 @@ During the semester we had 6 milestones and here you can see the documentation o
 - color schema, minimap, new HUD, oxygen and life system 
 5. [Playtesting](./doc/05_playtesting.md)
 - playtesting session with detailed feedback, improvement list
-6. [Game Conclusion](./doc/06_conclusion.md)
--improved feature list, some retrospective about the project
+6. [Game Conclusion](./doc/06_conclusion.md)  
+- improved feature list, some retrospective about the project
 
 If you have any questions or want to send a bug report you can write me on tobiasfox@gmx.net.
